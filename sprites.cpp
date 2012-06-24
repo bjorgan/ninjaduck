@@ -238,8 +238,8 @@ Duck::Duck(Game *currGame) : Sprite(currGame){
 	quackSwimRight = SDL_LoadBMP("images/duck_swimming_right_quack.bmp");
 	quackSwimLeft = SDL_LoadBMP("images/duck_swimming_left_quack.bmp");
 
-	sexSprite1 = SDL_LoadBMP("images/duckrape.bmp");
-	sexSprite2 = SDL_LoadBMP("images/duckrape2.bmp");
+	sexSprite1 = SDL_LoadBMP("images/ducksex.bmp");
+	sexSprite2 = SDL_LoadBMP("images/ducksex2.bmp");
 
 	invisibleSprite = SDL_LoadBMP("images/invisible.bmp");
 
